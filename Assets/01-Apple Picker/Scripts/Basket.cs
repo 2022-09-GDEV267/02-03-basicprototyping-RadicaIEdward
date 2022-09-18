@@ -53,8 +53,14 @@ public class Basket : MonoBehaviour
             // Add points for catching the apple
             score += 100;
 
-            //Convert the score back to a string and display it
+            // Convert the score back to a string and display it
             scoreGT.text = score.ToString();
+
+            // Track the high score
+            if (score > HighScore.score)
+            {
+                HighScore.score = score;
+            }
         }
     }
 }
