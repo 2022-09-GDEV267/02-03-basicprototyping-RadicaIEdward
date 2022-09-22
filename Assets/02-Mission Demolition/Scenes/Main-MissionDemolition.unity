@@ -282,7 +282,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5772666190fa64d649fde103115f4bd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  prefabProjectile: {fileID: 5013605520274581177, guid: 1de8a24b55ebc4b32a287e918bca5d29, type: 3}
+  velocityMult: 15
   launchPoint: {fileID: 0}
+  launchPos: {x: 0, y: 0, z: 0}
+  projectile: {fileID: 0}
+  aimingMode: 0
 --- !u!1 &333833103
 GameObject:
   m_ObjectHideFlags: 0
