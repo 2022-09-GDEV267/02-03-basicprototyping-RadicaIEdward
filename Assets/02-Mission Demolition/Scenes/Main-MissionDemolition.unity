@@ -1015,6 +1015,8 @@ MonoBehaviour:
   - {fileID: 8689455521442457318, guid: 67c833ede51364a01aa6de6b4404be9e, type: 3}
   - {fileID: 8689455521442457318, guid: 32ff497ea3c9044d0a9f157e289587f6, type: 3}
   - {fileID: 8689455521442457318, guid: 476018ea9b02a46ea85937d80662bb47, type: 3}
+  - {fileID: 8689455521442457318, guid: 62d6e6a5d7ff3460e8e1e4fa09d577e3, type: 3}
+  - {fileID: 8689455521442457318, guid: 4f0ad32744f0b4317aecbd2f357d9efb, type: 3}
   level: 0
   levelMax: 0
   shotsTaken: 0
